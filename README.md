@@ -1,5 +1,5 @@
-# Deep Learning Projects
-This repo is all about image processing and Deep Learning
+# Deep Learning For Images
+This repo is all about developing deep learning models for Image data
 
 FaceRecognition(Haar detector vs face_recognition) notebook contains the comparison between haar cascade face detector and face_recognition python package.
 It's yet to be completed. 
